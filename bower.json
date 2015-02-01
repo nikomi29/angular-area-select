@@ -5,6 +5,10 @@
 		"Luke Madera <luke.madera@gmail.com>"
 	],
 	"description": "Select an area (image or otherwise) with mouse or touch, i.e. for crop. Can set aspect ratio.",
+	"main" : [
+	  "./area-select.js",
+	  "./area-select.css"
+	],
 	"keywords": [
 		"AngularJS",
 		"directive",
